@@ -28,7 +28,11 @@ To run this project, downloaded and open it 😎
 
 ## Code Examples
 
-`async function handleSearch(currentText) { const searchString = getSearchString(currentText); const rawData = await fetchData(searchString); return selectData(rawData); }`
+`async function handleSearch(currentText){ 
+const searchString = getSearchString(currentText); 
+const rawData = await fetchData(searchString); 
+return selectData(rawData); 
+}`
 
 ## Features
 
