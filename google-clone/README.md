@@ -9,7 +9,6 @@
 - [Setup](#setup)
 - [Code Examples](#code-examples)
 - [Features](#features)
-- [Status](#status)
 - [Inspiration](#inspiration)
 - [Contact](#contact)
 
@@ -20,7 +19,6 @@ The coding and design took me around 2-4 hours.
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
 ![Design preview for the  coding challenge](./design/googleCloneDesktop.jpg)
 ![Design preview for the  coding challenge](./design/googleCloneMobile.jpg)
 
@@ -30,7 +28,11 @@ To run this project, downloaded and open it 😎
 
 ## Code Examples
 
-`async function handleSearch(currentText) { const searchString = getSearchString(currentText); const rawData = await fetchData(searchString); return selectData(rawData); }`
+`async function handleSearch(currentText){ 
+const searchString = getSearchString(currentText); 
+const rawData = await fetchData(searchString); 
+return selectData(rawData); 
+}`
 
 ## Features
 
@@ -40,10 +42,6 @@ The project is created with:
 - Plain JavaScript
 - HTML with BEM notation
 - SCSS
-
-## Status
-
-_finished_
 
 ## Inspiration
 
