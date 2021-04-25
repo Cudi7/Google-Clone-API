@@ -9,7 +9,6 @@
 - [Setup](#setup)
 - [Code Examples](#code-examples)
 - [Features](#features)
-- [Status](#status)
 - [Inspiration](#inspiration)
 - [Contact](#contact)
 
@@ -21,8 +20,8 @@ The coding and design took me around 2-4 hours.
 ## Screenshots
 
 ![Example screenshot](./img/screenshot.png)
-![Design preview for the  coding challenge](./design/googleCloneDesktop.jpg)
-![Design preview for the  coding challenge](./design/googleCloneMobile.jpg)
+![Design preview for the  coding challenge](./google-clone/design/googleCloneDesktop.jpg)
+![Design preview for the  coding challenge](./google-clone/design/googleCloneMobile.jpg)
 
 ## Setup
 
@@ -40,10 +39,6 @@ The project is created with:
 - Plain JavaScript
 - HTML with BEM notation
 - SCSS
-
-## Status
-
-_finished_
 
 ## Inspiration
 
