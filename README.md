@@ -19,7 +19,6 @@ The coding and design took me around 2-4 hours.
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
 ![Design preview for the  coding challenge](./google-clone/design/googleCloneDesktop.jpg)
 ![Design preview for the  coding challenge](./google-clone/design/googleCloneMobile.jpg)
 
